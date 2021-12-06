@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devrasel24
+- 👋 Hi, I’m Rasel
 - 👀 I’m interested in learning new something
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
