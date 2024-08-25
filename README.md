@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Rasel
 #### Professional Web Developer And WordPress Expert
 
-I'm Rasel. I have 6 years of experience in website design & and development. I have provided services in web design and development since 2018. I have worked with local and international clients and completed tasks with them. 
+Greetings :). I'm Rasel. I have 6 years of experience in website design & and development. I have provided services in web design and development since 2018. I have worked with local and international clients and completed tasks with them. 
 
 - 🔭 I’m currently working on XpartWeb 
 - 🌱 I’m currently learning Xpartweb is a global IT Solution web Agency. Creation of a professional and personalized website.  
@@ -25,3 +25,4 @@ I'm Rasel. I have 6 years of experience in website design & and development. I h
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/devrasel24/contributions?format=svg&private=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=devrasel24) 
