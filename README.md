@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Rasel
 #### Professional Web Developer And WordPress Expert
 
-Greetings :). I'm Rasel. I have 6 years of experience in website design & and development. I have provided services in web design and development since 2018. I have worked with local and international clients and completed tasks with them. 
+Greetings :) I'm Rasel. I have 6 years of experience in website design & and development. I have provided services in web design and development since 2018. I have worked with local and international clients and completed tasks with them. 
 
 - 🔭 I’m currently working on XpartWeb 
 - 🌱 I’m currently learning Xpartweb is a global IT Solution web Agency. Creation of a professional and personalized website.  
@@ -19,8 +19,6 @@ Greetings :). I'm Rasel. I have 6 years of experience in website design & and de
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devrasel24)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrasel24)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devrasel24&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrasel24)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devrasel24&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=devrasel24) 
