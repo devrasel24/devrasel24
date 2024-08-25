@@ -4,8 +4,6 @@
 
 I'm Rasel. I have 6 years of experience in website design & and development. I have provided services in web design and development since 2018. I have worked with local and international clients and completed tasks with them. 
 
-Skills: PHP/REACT/JS/CSS/HTML
-
 - 🔭 I’m currently working on XpartWeb 
 - 🌱 I’m currently learning Xpartweb is a global IT Solution web Agency. Creation of a professional and personalized website.  
 - 💬 Ask me about for any kind of website design and development. 
